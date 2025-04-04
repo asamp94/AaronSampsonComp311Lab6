@@ -1,3 +1,3 @@
 This file contains details about the project. More information will be added as features are implemented.
 ### Bug Fix: Corrected Typo in Project Details
-Fixed a typo in the description of the user authentication feature.
+fgfgfgfgfgfgfg
