@@ -1,1 +1,3 @@
 This file contains details about the project. More information will be added as features are implemented.
+### New Feature: User Authentication
+A new login system is being planned to enhance security.
