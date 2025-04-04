@@ -1,3 +1,8 @@
 This file contains details about the project. More information will be added as features are implemented.
+
+### Bug Fix: Corrected Typo in Project Details
+fgfgfgfgfgfgfg
+
 ### New Feature: User Authentication
 A new login system is being planned to enhance security.
+
